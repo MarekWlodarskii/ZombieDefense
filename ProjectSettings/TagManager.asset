@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mission
+  - BuildingMenu
+  - TooltipPanel
+  - Enemies
+  - Enemy
+  - Sceleton
+  - MenuCancel
+  - Tooltips
+  - Turret
+  - Game
+  - Menu
+  - TurretGroup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1478977449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Turret
+    uniqueID: 2
+    locked: 0
+  - name: MissionSelectBackground
+    uniqueID: 4223778857
+    locked: 0
+  - name: MissionToSelect
+    uniqueID: 2454678809
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2613817919
+    locked: 0

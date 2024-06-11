@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 083a419f57b8a4b478a44db0e64e7e31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tower: {instanceID: 0}
+  - tooltipPrefab: {instanceID: 0}
+  - cursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
